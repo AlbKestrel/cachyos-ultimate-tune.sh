@@ -1,0 +1,63 @@
+﻿✅ What’s New:
+
+
+🧩 KDE Menu Launcher:
+
+
+Adds a menu entry under Games
+
+
+Albanian name: Rregulluesi i Lojërave për CachyOS
+
+
+
+
+> Installs to:
+/usr/share/applications/cachyos-gaming-tuner.desktop
+
+
+
+
+
+
+---
+
+
+💾 Preset Support:
+
+
+Saves the user's selected options to:
+
+
+~/.config/cachyos-gaming-preset.conf
+
+
+
+
+
+
+---
+
+
+🇦🇱 Albanian Language Support:
+
+
+Final completion message shown in Albanian
+
+
+Easy to extend translations to other UI strings if needed
+
+
+
+
+
+
+---
+
+
+🧪 To Install & Use:
+
+
+tar -xvzf cachyos-gaming-tuner-full.tar.gz
+cd cachyos-gaming-tuner
+sudo ./cachyos-gaming-tuner.sh
